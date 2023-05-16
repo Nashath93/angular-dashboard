@@ -43,4 +43,4 @@ Thumbs.db
 
 
 # Users file
-src/apps/modules/services/users.ts
+src/app/services/users.ts
