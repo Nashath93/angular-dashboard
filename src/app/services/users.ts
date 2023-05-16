@@ -2,7 +2,7 @@ export const users = [
   {
     name: 'Mohamed Nashath',
     userName: 'nashathm',
-    password: '***',
+    password: 'Nashath@1993',
     role: 'admin user',
     email: 'nashath@gmail.com',
   },
