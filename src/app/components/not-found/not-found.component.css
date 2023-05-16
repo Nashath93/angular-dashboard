@@ -1,0 +1,11 @@
+.error-details {
+  text-align: center;
+  color: lightslategrey;
+}
+.error-actions {
+  padding: 1rem;
+
+  &.a {
+    padding: 0.2rem;
+  }
+}
